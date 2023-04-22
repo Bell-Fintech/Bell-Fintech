@@ -6,7 +6,6 @@
   font-family: Helvetica, "PingFang SC", "Microsoft Yahei", sans-serif;
   font-size: 14px;
   overflow-x : hidden;
-  overflow-y: hidden;
 }
 
 img {
@@ -32,7 +31,6 @@ header {
   display: grid;
   padding: 0 40px;
   overflow-x : hidden;
-  overflow-y: hidden;
   grid-template-columns: 1fr 2fr;
   align-content: center;
   position: relative;

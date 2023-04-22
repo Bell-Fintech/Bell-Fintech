@@ -31,7 +31,7 @@ header {
   height: 80px;
   display: grid;
   padding: 0 40px;
-
+  overflow-x : hidden;
   grid-template-columns: 1fr 2fr;
   align-content: center;
   position: relative;

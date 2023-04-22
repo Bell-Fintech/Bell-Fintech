@@ -25,7 +25,7 @@ img {
 
 /* 栅格布局 */
 header {
-  width: 100vw;
+  width: 95vw;
   height: 80px;
   display: grid;
   padding: 0 40px;

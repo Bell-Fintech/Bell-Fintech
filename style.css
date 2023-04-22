@@ -90,6 +90,7 @@ header.sticky nav i {
   position: relative;
   top: -80px;
   z-index: 50;
+  overflow-y: hidden;
 }
 
 .glide__slide img,
@@ -112,6 +113,7 @@ header.sticky nav i {
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow-y: hidden;
 }
 
 .slide-caption h1 {

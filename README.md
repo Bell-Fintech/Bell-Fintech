@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- Hello, I'm sumy 👋
+- Hello, I'm Alex Pan 👋
 - ![sumy7](https://komarev.com/ghpvc/?username=sumy7) ![sumy7](https://visitor-badge.glitch.me/badge?page_id=sumy7.profile)
 
 ## Tags
